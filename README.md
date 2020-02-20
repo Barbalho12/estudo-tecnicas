@@ -1,1 +1,1 @@
-# estudo-tecnicas
+# Machine Learning Techniques
